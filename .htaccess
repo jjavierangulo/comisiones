@@ -1,0 +1,5 @@
+# Servir contenidos de tipo text/plain o text/html usando la codificación UTF-8
+AddDefaultCharset utf-8
+ 
+# Forzar la codificación UTF-8 en varios tipos de archivos
+AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
